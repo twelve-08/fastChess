@@ -1,0 +1,2 @@
+# fastChess
+chess but fast
